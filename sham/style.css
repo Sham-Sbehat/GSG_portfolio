@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    margin-left:5px;
+  }
+  
+  header {
+    background-color: #d39999;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+  }
+  
+  nav {
+    background-color: #757474;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  nav ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  nav ul li a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  section {
+    padding: 50px 0;
+  }
+  
+  .project {
+    margin-bottom: 30px;
+  }
+  
+  footer {
+    background-color: #444;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+  }
+  
